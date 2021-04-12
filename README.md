@@ -10,7 +10,8 @@ DDA имеет 2 ветки, экспериментальную (каждый д
 Скачать лаунчер DDA - https://discourse.cataclysmdda.org/t/cdda-game-launcher-automatic-updates-and-more/11168 (ВНИМАНИЕ при обновлении игры через лаунчер, удаляются моды которые ВЫ кидали в папку mods. Так что после обновления игры лаунчером, моды кидайте заново. С тайлами и музыкой таких проблем вроде нет)
 
 Скачать релиз BN - https://github.com/cataclysmbnteam/Cataclysm-BN/releases
-(Обновлять можно просто перекидыванием релиза в папку с игрой)
+
+Или новый лаунчер для BN - https://github.com/4nonch/BN---Primitive-Launcher
 
 Отличия BN от DDA - https://github.com/cataclysmbnteam/Cataclysm-BN/wiki/Changes-so-far
 
